@@ -77,7 +77,7 @@ function Cats() {
             ))
           ) : (
             <tr>
-              <td>No Small Animals Found.</td>
+              <td>No Cattos Found.</td>
             </tr>
           )}
         </tbody>
